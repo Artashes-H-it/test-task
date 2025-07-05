@@ -3,7 +3,6 @@
 require_once __DIR__ . '/../../db/Database.php';
 
 $conn = Database::getInstance()->getConnection();
-$flag = null;
 $sql = "CREATE TABLE IF NOT EXISTS users (
     id INT AUTO_INCREMENT PRIMARY KEY,
     number VARCHAR(100) NOT NULL,
@@ -18,4 +17,3 @@ if (mysqli_query($conn, $sql)) {
 } else {
     echo "Ошибка при миграции: \n";
 }
-return $flag = true;

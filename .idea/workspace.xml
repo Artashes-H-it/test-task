@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="e81306b0-35dd-40b7-8419-cf970fc156b7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrations/migrate.php" beforeDir="false" afterPath="$PROJECT_DIR$/migrations/migrate.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrations/migration-tables/01_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/migrations/migration-tables/01_create_users_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrations/migration-tables/02_create_queue_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/migrations/migration-tables/02_create_queue_table.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1751635197291</updated>
       <workItem from="1751635198323" duration="2039000" />
-      <workItem from="1751637422811" duration="33407000" />
+      <workItem from="1751637422811" duration="33872000" />
     </task>
     <servers />
   </component>

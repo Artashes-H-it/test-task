@@ -10,8 +10,4 @@ sort($files);
 foreach ($files as $file) {
     echo "Выполняется: " . basename($file) . "\n";
     $flag = include $file;
-    var_dump($flag);
-    if($flag) {
-       continue;
-    }
 }

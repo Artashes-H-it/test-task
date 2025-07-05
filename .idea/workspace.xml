@@ -5,27 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e81306b0-35dd-40b7-8419-cf970fc156b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Controllers/HomeController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Views/home.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/Controller.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/Router.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/Database.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/migrate.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/migration-tables/01_create_users_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/migration-tables/02_create_queue_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue/QueueWorker.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue/SendUsersQueue.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue/UserFromQueue.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue/UsersAddQueue.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue/Worker.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +18,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\OpenServer\modules\php\PHP_8.0\php.exe" />
   <component name="ProjectColorInfo">{
@@ -83,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1751635197291</updated>
       <workItem from="1751635198323" duration="2039000" />
-      <workItem from="1751637422811" duration="32316000" />
+      <workItem from="1751637422811" duration="33407000" />
     </task>
     <servers />
   </component>

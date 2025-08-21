@@ -1,4 +1,4 @@
-name: Demo Workflow
+ name: Demo Workflow
 on: workflow_dispatch
 jobs: 
   print:
@@ -6,3 +6,7 @@ jobs:
     steps:
       - name: Print to console
         run: echo Hello GH Action!
+      - name: Print a in few lines  
+        run: | 
+          echo First line !
+          echo Secon liene ! 
